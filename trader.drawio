@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-14T19:22:14.026Z" agent="5.0 (X11)" etag="go8CUOlFCsmFJtXVTLFH" version="18.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-14T19:23:45.621Z" agent="5.0 (X11)" etag="8IV9DVW9N4VTe9bKDGix" version="18.0.4" type="github" pages="2">
   <diagram id="Y3p0PGgCs8zZVNzPUcN_" name="Page-1">
     <mxGraphModel dx="642" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -275,17 +275,20 @@
         <mxCell id="8DvQjLiZ74D6zHupj20l-67" value="Current Buy orders" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="50" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DvQjLiZ74D6zHupj20l-68" value="Line 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="8DvQjLiZ74D6zHupj20l-68" value="Price" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="450" y="90" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8DvQjLiZ74D6zHupj20l-69" value="Line 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="450" y="140" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DvQjLiZ74D6zHupj20l-70" value="Buy" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8DvQjLiZ74D6zHupj20l-71" value="Sell" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8DvQjLiZ74D6zHupj20l-72" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=20;handleStyle=circle;fillColor2=#ddeeff;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="425" y="140" width="175" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DvQjLiZ74D6zHupj20l-73" value="Qty" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
